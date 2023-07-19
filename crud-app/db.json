@@ -1,0 +1,105 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Johnson",
+      "lastName": "Priya",
+      "email": "qwe@dfg.com",
+      "dob": "2023-06-07T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "Capgemini",
+      "experience": "3",
+      "package": "5",
+      "id": 1
+    },
+    {
+      "firstName": "Rahul",
+      "lastName": "Sharma",
+      "email": "rahul98@gmail.com",
+      "dob": "1998-08-11T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "XYZ",
+      "experience": "2",
+      "package": "3",
+      "id": 2
+    },
+    {
+      "firstName": "Divyanshu ",
+      "lastName": "Singh",
+      "email": "div@gmail.com",
+      "dob": "1999-07-15T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "ASDF",
+      "experience": "2",
+      "package": "6",
+      "id": 3
+    },
+    {
+      "firstName": "Ravi",
+      "lastName": "Sarma",
+      "email": "rav@gmail.com",
+      "dob": "1998-07-08T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "xcvbn",
+      "experience": "2",
+      "package": "7",
+      "id": 4
+    },
+    {
+      "firstName": "Sityu",
+      "lastName": "asdf",
+      "email": "asd@gmail.com",
+      "dob": "2016-02-21T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "xxcv",
+      "experience": "3",
+      "package": "12",
+      "id": 6
+    },
+    {
+      "firstName": "Divyanshu ",
+      "lastName": "Singh",
+      "email": "div@gmail.com",
+      "dob": "1999-07-15T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "ASDF",
+      "experience": "2",
+      "package": "6",
+      "id": 7
+    },
+    {
+      "firstName": "Divyanshu ",
+      "lastName": "Singh",
+      "email": "div@gmail.com",
+      "dob": "1999-07-15T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "ASDF",
+      "experience": "2",
+      "package": "6",
+      "id": 8
+    }
+  ]
+}
